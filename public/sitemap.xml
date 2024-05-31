@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:8080/resources/using-shortcodes/</loc>
+  </url><url>
+    <loc>//localhost:8080/resources/legislative-issues/</loc>
+  </url><url>
+    <loc>//localhost:8080/resources/science/</loc>
+  </url><url>
+    <loc>//localhost:8080/resources/support-groups/</loc>
+  </url><url>
+    <loc>//localhost:8080/resources/what-to-say/</loc>
+  </url><url>
+    <loc>//localhost:8080/resources/</loc>
+  </url><url>
+    <loc>//localhost:8080/test-page/</loc>
+  </url><url>
+    <loc>//localhost:8080/</loc>
+  </url>
+</urlset>

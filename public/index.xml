@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome 👋 on Alto Template</title>
+    <link>//localhost:8080/</link>
+    <description>Recent content in Welcome 👋 on Alto Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interviews, Media, and Speeches</title>
+      <link>//localhost:8080/resources/using-shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/resources/using-shortcodes/</guid>
+      <description>Interviews German NGO Article: The Vacuum Shaun Barcavage Dr. Been First Interview Shaun Barcavage Dr. Been Second Interview Shaun Barcavage Dr. Been Third Interview Dearly Discarded - NIH Study Interview World Council for Health Media We Do Exist: Some Americans Suffer Life-Changing COVID Vaccine Injuries Doctors Shrug Off Patients With Rare Vaccine Disorders, Delaying Treatment Speeches Washington D.</description>
+    </item>
+    <item>
+      <title>Legislative Issues</title>
+      <link>//localhost:8080/resources/legislative-issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/resources/legislative-issues/</guid>
+      <description>Find your elected officials: https://www.commoncause.org/find-your-representative/addr/&#xA;Compensation Background PREP Act Immunity: The PREP Act has provided near bulletproof immunity for pharmaceutical manufacturers such as Pfizer and Moderna. Inadequate Compensation Program: COVID vaccine-injured are forced to lodge claims with an inefficient and inadequate program known as the Countermeasures Injury Compensation Program (CICP); they are not eligible for compensation under the Vaccine Injury Compensation Program (VICP).</description>
+    </item>
+    <item>
+      <title>Science</title>
+      <link>//localhost:8080/resources/science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/resources/science/</guid>
+      <description> BMJ Rapid Response on the CICP Muscle &amp;amp; Nerve Case Report NIH Study on Neuropathic Symptoms with SARS-CoV-2 Vaccination </description>
+    </item>
+    <item>
+      <title>Support Groups</title>
+      <link>//localhost:8080/resources/support-groups/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/resources/support-groups/</guid>
+      <description> Tinnitus, Hearing Loss, Hearing Impairment Post Covid Vaccination (Facebook Group) Neuro-V Long Haulers (Facebook Group) Covid Vaccine Autoimmune - Long Haul Autoimmune Support (Facebook Group) React19 (Non-Profit) </description>
+    </item>
+    <item>
+      <title>What to Say</title>
+      <link>//localhost:8080/resources/what-to-say/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/resources/what-to-say/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>test page</title>
+      <link>//localhost:8080/test-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:8080/test-page/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
