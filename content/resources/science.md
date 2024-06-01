@@ -3,7 +3,7 @@ _schema: default
 title: Articles
 nav_title: Articles
 nav_section: Science
-weight: 10
+weight: 1
 draft: false
 ---
 * [BMJ Rapid Response on the CICP](https://www.bmj.com/content/377/bmj.o919/rr-0)
