@@ -19,7 +19,8 @@ draft: false
 
 - [We Do Exist: Some Americans Suffer Life-Changing COVID Vaccine Injuries](https://nbc24.com/news/coronavirus/we-do-exist-some-americans-suffer-life-changing-covid-vaccine-injuries)
 - [Doctors Shrug Off Patients With Rare Vaccine Disorders, Delaying Treatment](https://www.newsweek.com/2022/05/13/doctors-shrug-off-patients-rare-vaccine-disorders-delaying-treatment-1703110.html)
-- 
+- [NYT: Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?](https://web.archive.org/web/20240503093636/https://www.nytimes.com/2024/05/03/health/covid-vaccines-side-effects.html)
+
 ## Speeches
 
 * [Washington D.C. Roundtable](https://www.bitchute.com/video/mRgoY8ozE5ek/)
