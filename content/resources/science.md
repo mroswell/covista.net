@@ -1,8 +1,8 @@
 ---
 _schema: default
-title: Science
-nav_title: Science
-nav_section: Resources
+title: Articles
+nav_title: Articles
+nav_section: Science
 weight: 10
 draft: false
 ---
